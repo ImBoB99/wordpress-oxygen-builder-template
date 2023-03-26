@@ -4,7 +4,7 @@ All-in-one WP Migration backup file containing a fresh installation of Wordpress
 
 The Wordpress installation has:
 
-1. Fresh Wordpress installation with a blank theme and removed wordpress css preset styles (bloat)
+1. Fresh Wordpress installation with a blank theme and removed wordpress css preset styles (bloat free)
 2. Installed and activated Oxygen Builder plugin with composite elements
 3. Set up oxygen global styles and settings
 4. Set up oxygen builder templates (main, posts, category, 404 and search results)
